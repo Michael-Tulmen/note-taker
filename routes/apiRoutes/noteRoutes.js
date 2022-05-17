@@ -1,8 +1,9 @@
 const router = require('express').Router();
 const res = require('express/lib/response');
-const {notes} = require('../../db/db.json');
+const {notes} = require('../../db/db');
 const {createNote,deleteNote} = require('../../lib/noteFunc');
 
+//problem with this relating to DB
 router.get('/notes', (req,res) => {
     let saved = notes;
     res.json(saved);
