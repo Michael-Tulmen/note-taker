@@ -4,6 +4,8 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 const apiRoutes = require('./routes/apiRoutes');
 const htmlRoutes = require('./routes/htmlRoutes');
+const fs = require('fs');
+const path = require('path');
 
 //purpose: accept string or array for below
 app.use(express.urlencoded({ extended: true }));
