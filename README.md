@@ -4,7 +4,7 @@
 [![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
         
 ## Description
-this is a node.js and express.js note taker
+This is a note taking app made through express.js that allows users to create, save and delete notes running on a heroku server.
 
 ##GitHub
 You can visit this application at https://github.com/Michael-Tulmen/note-taker to try yourself
@@ -67,6 +67,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Mock-up
 
+![Image Unavailable](./public/assets/images/overall.png)
+![Image Unavailable](./public/assets/images/added_note.png)
+![Image Unavailable](./public/assets/images/note_saved.png)
         
 ## Installation
 Installation by downloading from my github repository onto your local machine
@@ -112,4 +115,5 @@ If you have any questions, you may direct them to undefined using the following 
 | Name | Michael Tulmen |
 | GitHub | https://github.com/Michael-Tulmen |
 | Email | <michaeltulmen@me.com> |
+| Deployed Application | https://thosesomecoolnotes.herokuapp.com/ |
 
