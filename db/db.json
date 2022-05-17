@@ -1,14 +1,14 @@
 {
-    "notes": [
-        {
-            "title":"Note-Taker Dev Message",
-            "text":"This is a live note taking app that allows you to take, save, and delete notes.  To add a note, simply start and get typing, to save click the save icon",
-            "id":"0"
-        },
-        {
-            "title":"Deleting a note",
-            "text":"As a bonus function you can delete notes by clicking the trashcan",
-            "id": "1"
-        }
-    ]
+  "notes": [
+      {
+          "title":"Note-Taker Dev Message",
+          "text":"This is a live note taking app that allows you to take, save, and delete notes.  To add a note, simply start and get typing, to save click the save icon",
+          "id":"0"
+      },
+      {
+          "title":"Deleting a note",
+          "text":"As a bonus function you can delete notes by clicking the trashcan",
+          "id": "1"
+      }
+  ]
 }
