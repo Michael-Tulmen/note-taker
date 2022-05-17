@@ -1,3 +1,4 @@
+//didn't do anything to this file, no need front end done
 let noteTitle;
 let noteText;
 let saveNoteBtn;
